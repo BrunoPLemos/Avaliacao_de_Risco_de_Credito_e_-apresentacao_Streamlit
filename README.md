@@ -1,4 +1,4 @@
-#Visão Geral
+# Visão Geral
 
 Este projeto tem como objetivo desenvolver, avaliar e comparar modelos de credit scoring (análise de risco de crédito) para prever a probabilidade de um cliente se tornar um "mau pagador". Utilizando técnicas de pré-processamento de dados, análise exploratória e modelagem preditiva, o projeto busca identificar os principais fatores de risco e construir um modelo robusto para auxiliar na tomada de decisões financeiras.
 
@@ -16,7 +16,7 @@ Avaliação do Modelo: Análise de métricas de desempenho como AUC, Gini, KS e 
 
 Modelagem Automatizada com PyCaret: Utilização da biblioteca PyCaret para automatizar o processo de seleção e tunagem de modelos, comparando a performance do modelo manual com outros modelos de machine learning (ex: LightGBM).# Avaliacao_de_Risco_de_Credito_e_-apresentacao_Streamlit
 
-##Tecnologias e Bibliotecas Utilizadas
+## Tecnologias e Bibliotecas Utilizadas
 
 
 pandas: Manipulação e análise de dados.
